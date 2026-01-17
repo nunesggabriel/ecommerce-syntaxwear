@@ -5,9 +5,9 @@
 .footer-content{
     max-width: 1360px;
     margin: 0 auto;
-    padding: 40px;
+    padding: 2.5rem;
     display: flex;
-    gap: 155px;
+    justify-content: space-between;
   
 }
 
@@ -31,16 +31,12 @@
 .footer-nav strong{
     color: #EDEDED;
     font-size: 1.25rem;
-    margin-bottom: 16px;
+    margin-bottom: 1rem;
     display: block;
     font-weight: 400;
 
 }
 
-
-.footer-nav li {
-    color: #ffffff;
-}
 
 .footer-nav li a{
     color: #ffffff;
@@ -59,12 +55,12 @@
 .newsletter-form input{
     border-radius: 30px;
     color: #AAAAAA ;
-    padding: 12px 20px;
-    width: 344px;
+    padding: 0.75rem 1.25rem;
+    width: 21.5rem;
 }
 
 .footer-social span{
-    margin-bottom: 16px;
+    margin-bottom: 1rem;
     display: block;
 }
 .footer-social ul{
